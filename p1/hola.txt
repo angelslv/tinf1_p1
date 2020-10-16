@@ -7,3 +7,10 @@ Este es mi primer mensaje que escribo para que pueda comenzar a trabajar con git
 Puedo seguir agregando más cambios dentro de este archivo.
 
 Tengo un nuevo cambio 
+
+<?php
+    if($a=5)
+     echo "Reprobaste";
+    else
+     echo "Pasaste";
+?>
