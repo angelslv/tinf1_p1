@@ -3,3 +3,5 @@ Este es mi primer mensaje que escribo para que pueda comenzar a trabajar con git
 /*Esta es una línea que puede servir para hacer comentarios con php */
 
 /*Este es un mensaje que solo puede ser visualizado dentro de la rama Algoritmo, si regresamos a la rama MASTER o RAMA de PRODUCCIÓN estos cambios no serán vistos, al final esta rama nos puede servir para hacer pruebas antes de lanzar nuestro código a producción*/
+
+Puedo seguir agregando más cambios dentro de este archivo.
